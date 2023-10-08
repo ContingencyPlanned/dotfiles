@@ -1,0 +1,31 @@
+window:
+  opacity: 0.9
+
+colors:
+  primary:
+    background: '#1c1c1c'
+    foreground: '#ffffdf'
+
+  normal:
+    black:   '#121212'
+    red:     '#ff005f'
+    green:   '#87ff87'
+    yellow:  '#ffff5f'
+    blue:    '#005fff'
+    magenta: '#8787ff'
+    cyan:    '#00d7d7'
+    white:   '#e4e4e4'
+
+  bright:
+    black:   '#1c1c1c'
+    red:     '#ff5f5f'
+    green:   '#afffaf'
+    yellow:  '#ffff87'
+    blue:    '#0087ff'
+    magenta: '#afafff'
+    cyan:    '#87ffff'
+    white:   '#eeeeee'
+
+cursor:
+  style:
+    shape: Underline
