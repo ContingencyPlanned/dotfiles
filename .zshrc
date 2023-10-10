@@ -3,7 +3,8 @@
 # Alias
 alias ardour="/home/connor/downloads/app/ardour/gtk2_ardour/ardev"
 alias muvluv="wine '/home/connor/.wine/drive_c/Program Files (x86)/Muv-Luv/muvluv16.exe'"
-alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/dotfiles --work-tree=$HOME'
+alias etcconfig="/usr/bin/git --git-dir=$HOME/.dotfiles/etcdotfiles --work-tree=/"
 
 # Variables
 export BROWSER="chromium"
