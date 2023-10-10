@@ -3,29 +3,33 @@ window:
 
 colors:
   primary:
-    background: '#1c1c1c'
-    foreground: '#ffffdf'
+    background: '#2a2931'
+    foreground: '#e7e3ff'
 
   normal:
-    black:   '#121212'
-    red:     '#ff005f'
-    green:   '#87ff87'
-    yellow:  '#ffff5f'
-    blue:    '#005fff'
-    magenta: '#8787ff'
-    cyan:    '#00d7d7'
-    white:   '#e4e4e4'
+    black:   '#2a2931'
+    red:     '#ff568a'
+    green:   '#dfffb2'
+    yellow:  '#fffda2'
+    blue:    '#646ffb'
+    magenta: '#b79cff'
+    cyan:    '#716cf8'
+    white:   '#e7e3ff'
 
   bright:
-    black:   '#1c1c1c'
-    red:     '#ff5f5f'
-    green:   '#afffaf'
-    yellow:  '#ffff87'
-    blue:    '#0087ff'
-    magenta: '#afafff'
-    cyan:    '#87ffff'
-    white:   '#eeeeee'
+    black:   '#2a2931'
+    red:     '#ff568a'
+    green:   '#dfffb2'
+    yellow:  '#fffda2'
+    blue:    '#646ffb'
+    magenta: '#b79cff'
+    cyan:    '#716cf8'
+    white:   '#e7e3ff'
 
 cursor:
   style:
     shape: Underline
+
+#font:
+  #normal:
+    #default:
